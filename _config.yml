@@ -1,0 +1,4 @@
+name: Food Recipes
+markdown: redcarpet
+pygments: true
+baseurl: /food-recipes
